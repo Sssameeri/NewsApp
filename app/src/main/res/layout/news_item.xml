@@ -21,6 +21,7 @@
             android:layout_below="@id/imageView"
             android:id="@+id/titleTextView"
             android:layout_width="wrap_content"
+            android:fontFamily="@font/robotoBold"
             android:layout_height="wrap_content"
             android:textColor="@android:color/black"
             android:text="Mercedes-Benz and Laureus broadening their worldwide involvemen"
@@ -32,6 +33,7 @@
             android:id="@+id/sourceTextView"
             android:textColor="@android:color/black"
             android:textSize="15sp"
+            android:fontFamily="@font/robotoBold"
             android:text="Emercedesbenz.com"
             android:layout_below="@id/titleTextView"
             android:layout_width="wrap_content"
@@ -44,6 +46,7 @@
 
         <TextView
             android:id="@+id/dash"
+            android:fontFamily="@font/robotoBold"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="15sp"
@@ -57,6 +60,7 @@
         <TextView
             android:id="@+id/dateTextView"
             android:textSize="15sp"
+            android:fontFamily="@font/robotoBold"
             android:textColor="@android:color/black"
             android:text="2 hours ago"
             android:layout_toEndOf="@id/dash"
