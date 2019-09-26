@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">News</string>
     <string name="hint_search">hint_search</string>
-    <string name="tab_video">Video</string>
-    <string name="tab_favourites">Favourites</string>
-    <string name="tab_stories">Stories</string>
+    <string name="tab_video">VIDEO</string>
+    <string name="tab_favourites">FAVOURITES</string>
+    <string name="tab_stories">STORIES</string>
 
 </resources>
